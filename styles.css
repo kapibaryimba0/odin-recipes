@@ -2,6 +2,10 @@
   background-color: rgb(35, 114, 35);
 }
 
+.odin {
+  color: rgb(148, 218, 209);
+}
+
 .ph1 {
   color: rgb(226, 209, 133);
 }
@@ -35,10 +39,28 @@ li {
   color: rgb(202, 94, 22);
 }
 
+.bh1 {
+  color: rgb(102, 102, 33);
+}
+
+.bh2 {
+  color: rgb(94, 94, 16);
+}
+
+.bp,
+.bo,
+.bu {
+  color: rgb(121, 122, 35);
+}
+
 .pelmeni {
   background-color: rgb(199, 133, 48);
 }
 
 .poop {
   background-color: rgb(104, 51, 16);
+}
+
+.banana {
+  background-color: yellow;
 }
