@@ -1,7 +1,21 @@
-body {
+.main {
   background-color: rgb(35, 114, 35);
 }
 
 h1 {
-  color: rgb(226, 209, 133)
+  color: rgb(226, 209, 133);
+}
+
+h2 {
+  color: rgb(184, 173, 122);
+}
+
+p,
+li {
+  font-size: 20px;
+  color: rgb(212, 192, 99)
+}
+
+.pelmeni {
+  background-color: rgb(199, 133, 48);
 }
