@@ -2,20 +2,43 @@
   background-color: rgb(35, 114, 35);
 }
 
-h1 {
+.ph1 {
   color: rgb(226, 209, 133);
 }
 
-h2 {
+.ph2 {
   color: rgb(184, 173, 122);
 }
 
 p,
 li {
   font-size: 20px;
-  color: rgb(212, 192, 99)
+}
+
+.pp,
+.po,
+.pu {
+  color: rgb(212, 192, 99);
+}
+
+.ch1 {
+  color:rgb(177, 89, 30);
+}
+
+.ch2 {
+  color: rgb(180, 118, 73);
+}
+
+.cp,
+.cu,
+.co {
+  color: rgb(202, 94, 22);
 }
 
 .pelmeni {
   background-color: rgb(199, 133, 48);
+}
+
+.poop {
+  background-color: rgb(104, 51, 16);
 }
