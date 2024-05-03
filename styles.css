@@ -2,6 +2,10 @@
   background-color: rgb(35, 114, 35);
 }
 
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .odin {
   color: rgb(148, 218, 209);
 }
@@ -17,6 +21,7 @@
 p,
 li {
   font-size: 20px;
+  font-weight: 1000;
 }
 
 .pp,
