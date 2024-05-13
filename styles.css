@@ -14,13 +14,11 @@ body {
 }
 
 .um {
-  margin-left: auto;
-  margin-right: auto;
   width: 220px;
-  height: 170px;
+  height: 180px;
+  padding-top: 40px;
   border: 4px solid rgb(65, 100, 95);
-  padding-top: 25px;
-  padding-bottom: 0px;
+  margin: auto;
 }
 
 .um li {
